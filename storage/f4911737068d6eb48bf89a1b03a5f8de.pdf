@@ -111,7 +111,7 @@
 								</td>
 
 								<td>
-									Invoice #: {{ number }}<br />
+									Invoice #: 09477705099<br />
 									Created: January 1, 2015<br />
 									Due: February 1, 2015
 								</td>

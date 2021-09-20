@@ -16,7 +16,7 @@ class View
         );
     }
 
-    public function load($view, array $data  = [])
+    public function render($view, array $data  = [])
     {
         return $this->twig->render($view, $data);
     }
